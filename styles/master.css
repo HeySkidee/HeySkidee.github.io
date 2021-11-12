@@ -6,13 +6,13 @@
   --other: #eeeeee;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   :root {
     --text: #fafafa;
     --background: #101010;
     --other: #202020;
   }
-}
+} */
 
 @media only screen and (max-width: 400px) {
   main { padding-left: 0.75rem; padding-right: 0.75rem; }
