@@ -10,6 +10,7 @@
 - https://skidee.me/resume.pdf
 - https://skidee.me/cringe
 - https://skidee.me/HeySkidee
+- https://skidee.me/beats
 
 
 😩 100 Coding journey: https://skidee.me/100
