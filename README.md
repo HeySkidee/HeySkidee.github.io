@@ -13,7 +13,7 @@
 - https://skidee.me/win10
 - https://skidee.me/discord
 - https://skidee.me/HeySkidee
-- https://skidee.me/beats
+- https://skidee.me/beats 
 - https://skidee.me/s | https://HeySkidee.github.io/sauce
 
 😩 100 Coding journey: https://HeySkidee.github.io/100
