@@ -14,6 +14,6 @@
 - https://skidee.me/discord
 - https://skidee.me/HeySkidee
 - https://skidee.me/beats 
-- https://skidee.me/s | https://HeySkidee.github.io/sauce
+- https://skidee.me/s 
 
 😩 100 Coding journey: https://HeySkidee.github.io/100
