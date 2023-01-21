@@ -10,7 +10,7 @@
 <hr width="30%">
 
 - https://skidee.me
-- https://skidee.me/win10
+- https://skidee.me/win10 
 - https://skidee.me/discord
 - https://skidee.me/HeySkidee
 - https://skidee.me/beats 
